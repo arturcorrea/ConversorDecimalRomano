@@ -17,4 +17,4 @@ Executar pelo fonte:
   Abra o seu visual studio como permissões de administrador.
   (Clique sobre o executável do Visual Studio com o botão direito > Abrir como administrador e conceda a permissão)
   
-  Com o projeto carregado no Visual Stúdio, aperte F5;
+  Com o projeto carregado no Visual Studio, aperte F5;
