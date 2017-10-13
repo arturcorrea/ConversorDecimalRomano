@@ -1,0 +1,10 @@
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\bin\Debug\ConversorDeNumerosRomanos.exe.config
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\bin\Debug\ConversorDeNumerosRomanos.exe
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\bin\Debug\ConversorDeNumerosRomanos.pdb
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\ConversorDeNumerosRomanos.csprojResolveAssemblyReference.cache
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\ConversorDeNumerosRomanos.frmPrincipal.resources
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\ConversorDeNumerosRomanos.Properties.Resources.resources
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\ConversorDeNumerosRomanos.csproj.GenerateResource.Cache
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\ConversorDeNumerosRomanos.exe
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\ConversorDeNumerosRomanos.pdb
+C:\uds\ConversorDeNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\ConversorDeNumerosRomanos.Forms.frmConversao.resources
